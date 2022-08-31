@@ -7,7 +7,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=naviace.naviace) &nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-👨‍💻  I'm passionate about anythg inte!b! </br>
+👨‍💻  I'm passionate about anything tech! </br>
 
 #### 📫 &nbsp; Let's connect
 
